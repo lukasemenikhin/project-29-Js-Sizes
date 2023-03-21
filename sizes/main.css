@@ -1,0 +1,15 @@
+html {
+    cursor: none;
+}
+
+.circle {
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    border-radius: 25rem;
+    position: absolute;
+}
+
+i {
+    color: white;
+}
